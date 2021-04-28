@@ -1,0 +1,5 @@
+frequency_dot=15000
+frequency_dash=18000
+time_dot=1000
+time_dash=250
+delay=0
